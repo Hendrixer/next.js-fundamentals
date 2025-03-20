@@ -17,8 +17,8 @@ Let's get your development environment ready! Follow these steps to set up the p
 
    - Clone the project repository to your local machine using Git. Replace `[repo]` with the actual repository URL provided for this lesson.
      ```bash
-     git clone [repo]
-     cd [your-repo-name]
+     git clone https://github.com/Hendrixer/next.js-fundamentals
+     cd next.js-fundamentals
      ```
 
 3. **Install Dependencies:**
